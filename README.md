@@ -15,8 +15,7 @@
 
 - 🌟 What I Do [Constantly learn and experiment with new tools](Constantly learn and experiment with new tools)
 
-- 🧍‍♀️ Personal Touch [Enjoy solving logical challenges like puzzles or coding games.](Enjoy solving logical challenges like puzzles or coding games.)
-
+- 🧍‍♀️ Personal Touch [Enjoy solving logical challenges like puzzles or coding games.]
 - 💬About me **Love turning ideas into interactive digital experiences.**
 
 - 📫 How to reach me **its.khushi.mahore@gmail.com**
