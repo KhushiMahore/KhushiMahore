@@ -13,9 +13,9 @@
 
 - 🤝 Collaboration **Open to collaborating on innovative front-end and web development projects.**
 
-- 🌟 What I Do [Constantly learn and experiment with new tools]
+- 🌟 What I Do **Constantly learning, exploring, and experimenting with new tools to grow every day.**
 
-- 🧍‍♀️ Personal Touch [Enjoy solving logical challenges like puzzles or coding games.]
+- 🧍‍♀️ Personal Touch **Enjoy solving logical challenges like puzzles or coding games.**
 - 💬About me **Love turning ideas into interactive digital experiences.**
 
 - 📫 How to reach me **its.khushi.mahore@gmail.com**
