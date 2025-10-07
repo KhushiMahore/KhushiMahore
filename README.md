@@ -13,7 +13,7 @@
 
 - 🤝 Collaboration **Open to collaborating on innovative front-end and web development projects.**
 
-- 🌟 What I Do [Constantly learn and experiment with new tools](Constantly learn and experiment with new tools)
+- 🌟 What I Do [Constantly learn and experiment with new tools]
 
 - 🧍‍♀️ Personal Touch [Enjoy solving logical challenges like puzzles or coding games.]
 - 💬About me **Love turning ideas into interactive digital experiences.**
