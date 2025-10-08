@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **its.khushi.mahore@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R3gxJuXxT-7QPJJU_KcNEOq6W9WwLWyl/view?usp=sharing](https://drive.google.com/file/d/1R3gxJuXxT-7QPJJU_KcNEOq6W9WwLWyl/view?usp=sharing)
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1R3gxJuXxT-7QPJJU_KcNEOq6W9WwLWyl/view?usp=sharing](https://drive.google.com/file/d/1R3gxJuXxT-7QPJJU_KcNEOq6W9WwLWyl/view?usp=sharing)**
 
 - ⚡ Fun fact **My code works 99% of the time… after 99 tries!**
 
