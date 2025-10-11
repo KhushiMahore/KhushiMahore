@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA with C++ And JavaScript(JS)**
 
-- 🎯Passionate about **Creating user-friendly and efficient digital experiences**
+- 🎯Passionate about **Creating user-friendly and efficient digital experiences.**
 
 - 🤝 Collaboration **Open to collaborating on innovative front-end and web development projects.**
 
